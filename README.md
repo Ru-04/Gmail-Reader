@@ -1,4 +1,5 @@
 Developer - Arushi Sharma
+
 PROJECT OVERVIEW
 
 This project is a Python-based automation tool that reads unread emails from my Gmail inbox and stores important details into a Google Sheet automatically.
